@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899907626952",
+    "project_id": "react-naitve-test",
+    "storage_bucket": "react-naitve-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899907626952:android:1b5f61ba1adfb35aac82fd",
+        "android_client_info": {
+          "package_name": "com.rntest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4MqgPatg3Koj_gUqU9DqbP6FbxyZYm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
